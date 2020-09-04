@@ -1,5 +1,8 @@
 ---
 layout: "post"
+title: "Blog 0"
+date: 2020-09-04 11:38:00 -0700
+categories: blog update
 ---
 
-Hello World!
+My first blog post.

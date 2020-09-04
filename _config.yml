@@ -16,7 +16,7 @@
 title: Alex Vasquez's CIT 480 Blog
 email: alexander.vasquez.936@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This my weekly blog for CIT 480
+  Welcome to my weekly blog!
 baseurl: "av_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog 1
+title: Blog 2
 date: '2020-09-18 19:30:00 -0700'
 categories: blog update
 published: true

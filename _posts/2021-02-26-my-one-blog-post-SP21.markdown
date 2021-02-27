@@ -7,7 +7,7 @@ published: true
 ---
 <h1>Setting Up Wake-On-LAN for Windows 10</h1>
 <p></p>
-TEST <img src="https://i.imgur.com/cFHjsrP.png">
+TEST <img src="https://i.imgur.com/cFHjsrP.png" width="200" height="40">
 <p></p>
 
 <p></p>

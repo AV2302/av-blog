@@ -10,4 +10,4 @@ published: true
 
 <p>Upon further research, there actually was a way to get RTX software working on a GTX graphics card. The first step is to run the RTX Voice installer so that the necessary folder and files are created. This is what should pop-up on the installer. <img src="https://i.imgur.com/pj9j6Or.png" width="540" height="460"> <br> Close the installer and navigate to the folder C:\Temp\NVRTXVoice in Windows Explorer. This is where the installer left the file that needs to be edited.</p>
 
-<p>Located within the NVRTXVoice folder is another folder called NvAFX, and in that folder is a file called RTXVoice.nvi. <img src="https://i.imgur.com/pj9j6Or.png" width="540" height="460"> <br> </p>
+<p>Located within the NVRTXVoice folder is another folder called NvAFX, and in that folder is a file called RTXVoice.nvi. <img src="https://i.imgur.com/sQZSOcg.png" width="540" height="260"> <br> </p>
